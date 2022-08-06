@@ -1,0 +1,32 @@
+h3{
+    background-color: rgb(213, 213, 213);
+    border: 3px solid black;
+    
+}
+
+.year{ 
+    position: absolute;
+    left: 10px;
+}
+.marks{ 
+    position: absolute; 
+    right: 10px;
+}
+.institutes{ 
+    position: absolute; 
+    right: 200px;
+}
+
+.board{ 
+    position: relative; 
+    right: 100px;
+}
+
+thead{
+    text-align: center;
+    margin-top: 0px;
+
+}
+thead .institutes{
+    text-align: center;
+}
