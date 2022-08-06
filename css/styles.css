@@ -3,23 +3,33 @@ h3{
     border: 3px solid black;
     
 }
+table{
+    border: 2px solid none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+
+}
 
 .year{ 
-    position: absolute;
-    left: 10px;
+    border: 2px solid none;
+    
+    width: 20%;
 }
 .marks{ 
-    position: absolute; 
-    right: 10px;
+    border: 2px solid none;
+    width: 20%;
 }
 .institutes{ 
-    position: absolute; 
-    right: 200px;
+    border: 2px solid none;
+    text-align: center;
+    width: 20%;
 }
 
 .board{ 
-    position: relative; 
-    right: 100px;
+    border: 2px solid none;
+    width: 20%;
 }
 
 thead{
